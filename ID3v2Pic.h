@@ -68,7 +68,7 @@ namespace spID3 {
 		{
 			strcpy(picFormat, "png");
 		}
-		else if (memcmp(data, &gif, 6) == 0 || memcpy(data, &gif2, 6) == 0)
+		else if (memcmp(data, &gif, 6) == 0 || memcmp(data, &gif2, 6) == 0)
 		{
 			strcpy(picFormat, "gif");
 		}
