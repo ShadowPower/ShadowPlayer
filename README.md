@@ -4,6 +4,9 @@
 ## Windows二进制程序下载
 请访问 http://pan.baidu.com/s/1ntOeCf3
 
+## 分支版本
+* [BLumia修改版](https://github.com/Blumia/ShadowPlayer-BLumia)
+
 ## 功能特点
 * 无损音频播放
 * 可以设置Windows文件关联来使用
